@@ -2,6 +2,9 @@
 
 https://github.com/mkLuarvik/you-git2
 
+git clone https://github.com/mkLuarvik/you-git2.git
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
