@@ -6,9 +6,9 @@ git clone https://github.com/mkLuarvik/you-git2.git
 
 Hi from Linux 3
 
+### DEV1 - мои изменения
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
