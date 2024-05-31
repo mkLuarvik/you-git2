@@ -8,6 +8,9 @@ function App() {
         <h1>Первый Branch DEV1</h1>
         <div>
           <div>Dev-Общее</div>
+          <div>DEV1-11</div>
+          <div>DEV1-12</div>
+          <div>DEV1-13</div>
 
         </div>
         <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium doloremque ducimus, eligendi explicabo fugit hic modi numquam odit, quia repellat ut veritatis.</h4>
